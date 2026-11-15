@@ -1,0 +1,1 @@
+</main><footer><div><b>ShopVerse</b><p>Demo e-commerce PHP & MySQL dengan fitur lengkap.</p></div><div><b>Navigasi</b><a href="products.php">Produk</a><a href="cart.php">Keranjang</a><a href="orders.php">Pesanan</a></div><div><b>Bantuan</b><p>support@shopverse.test</p><p>Jakarta, Indonesia</p></div></footer><script src="assets/js/app.js"></script></body></html>
